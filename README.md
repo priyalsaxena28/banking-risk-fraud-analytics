@@ -398,8 +398,6 @@ Due to GitHub's file size limitations, the complete project (including the Power
 
 ### 📂 Download Here
 
-**🔗 Replace this with your OneDrive link**
-
 ```
 https://1drv.ms/f/c/cce4a5bc47b7e76e/IgCoW8elPvmnQITPNtHwkLMNAc0xMFL_7e13E7hR0tL2Qjg?e=u8XXim
 ```
